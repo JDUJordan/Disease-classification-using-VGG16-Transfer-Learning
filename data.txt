@@ -1,0 +1,1 @@
+Trained using the PlantVillage dataset which can be found here:https://www.kaggle.com/datasets/emmarex/plantdisease
